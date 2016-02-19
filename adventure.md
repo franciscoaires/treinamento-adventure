@@ -2,3 +2,4 @@
 
 *inventario* [aqui](inventario.md)
 
+¬¬'
