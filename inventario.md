@@ -1,0 +1,3 @@
+feijão;
+arroz;
+*WiFi*
